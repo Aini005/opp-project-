@@ -181,3 +181,4 @@ public class QuizApp extends JFrame {
 }
 https://github.com/Aini005/opp-project-/commit/a137f3313d85ce18014d9d271fbc2b049c35037f#commitcomment-160640023
 www.linkedin.com/in/aiñyē-khãn-b0901a28a
+https://www.linkedin.com/posts/ai%C3%B1y%C4%93-kh%C3%A3n-b0901a28a_aini005-overview-activity-7342929774333313024-wrfh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYgOrkB6so03ngA91DveZ_GV1Jbs4R5148
