@@ -179,4 +179,5 @@ public class QuizApp extends JFrame {
         SwingUtilities.invokeLater(() -> new QuizApp());
     }
 }
-
+https://github.com/Aini005/opp-project-/commit/a137f3313d85ce18014d9d271fbc2b049c35037f#commitcomment-160640023
+www.linkedin.com/in/aiñyē-khãn-b0901a28a
